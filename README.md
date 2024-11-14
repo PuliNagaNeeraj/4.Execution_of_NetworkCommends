@@ -34,7 +34,7 @@ This commands includes
 
 ### IPCONFIG
 
-![image](https://github.com/user-attachments/assets/3e96a527-d8b4-427b-a846-87bc9d1ac2a8)
+![image](https://github.com/user-attachments/assets/9f8be08b-36e1-4fd1-8dcc-a08407235fec)
 
 ### PING
 
